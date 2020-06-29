@@ -8,10 +8,10 @@ Assuming Docker and docker-compose are installed on the machine, run the followi
 docker-compose up
 ```
 
-**Usage:**
-The server runs on localhost:3000
-*Request* -> GET /pokemon/<pokemon_name>
-*Response status codes* -> 202 | 400 | 404 | 429
+**Usage:**  
+The server runs on localhost:3000  
+*Request* -> GET /pokemon/<pokemon_name>  
+*Response status codes* -> 202 | 400 | 404 | 429  
 
 External tools:
 - https://courses.cs.washington.edu/courses/cse154/webservices/pokedex/ (For pokemon informations)
